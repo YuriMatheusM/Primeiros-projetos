@@ -14,7 +14,7 @@ public class SequenciaDeFibonacci {
         int sequencia = 0;
         int anterior = 0;
         int resp;
-        for (int i =0; i<30; i++ ) {
+        for (int i =0; i<36; i++ ) {
           if(i==0){
               sequencia += 1;
               anterior = 0;
